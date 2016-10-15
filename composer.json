@@ -1,0 +1,5 @@
+{
+    "require": {
+        "zackslash/php-web-article-extractor": "^0.1.2"
+    }
+}
